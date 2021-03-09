@@ -1,0 +1,1 @@
+export const PLANTS_ROUT = '/plants';
