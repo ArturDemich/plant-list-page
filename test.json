@@ -1,4 +1,4 @@
-[{
+{
     "id": 1,
     "nameClient": "Петров Іван",
     "dateShipment": "31.03.2022",
@@ -44,4 +44,4 @@
             "statusDig":  false
             }
     ]
-}]
+}
