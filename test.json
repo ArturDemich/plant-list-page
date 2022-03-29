@@ -2,8 +2,8 @@
     "id": 1,
     "nameClient": "Петров Іван",
     "dateShipment": "31.03.2022",
-    "orderItems": { 
-        "row1": {        
+    "orderItems": [ 
+         {        
             "id": 11,
             "name": "Туя Смарагд",
             "characteristics": "WRB,H180-200",
@@ -11,7 +11,7 @@
             "placing": "Барвінок" ,
             "statusDig":  false
             },
-       "row2": {
+            {
             "id": 12,
             "name": "Туя Брабант",
             "characteristics": "WRB,H180-200",
@@ -19,15 +19,15 @@
             "placing": "Перечин" ,
             "statusDig":  false
             }
-    }
+        ]
 },
 
 {
     "id": 2,
     "nameClient": "Пупкін Вася",
     "dateShipment": "01.04.2022",
-    "orderItems": {
-        "row1": {
+    "orderItems": [
+             {
             "id": 11,
             "name": "Туя Смарагд",
             "characteristics": "WRB,H160-180",
@@ -35,7 +35,7 @@
             "placing": "Дуьриничі" ,
             "statusDig":  false
             },
-       "row2": {
+            {
             "id": 12,
             "name": "Туя Брабант",
             "characteristics": "WRB,H180-200",
@@ -43,5 +43,5 @@
             "placing": "Перечин" ,
             "statusDig":  false
             }
-    }
+    ]
 }]
