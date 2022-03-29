@@ -20,28 +20,4 @@
             "statusDig":  false
             }
         ]
-},
-
-{
-    "id": 2,
-    "nameClient": "Пупкін Вася",
-    "dateShipment": "01.04.2022",
-    "orderItems": [
-             {
-            "id": 11,
-            "name": "Туя Смарагд",
-            "characteristics": "WRB,H160-180",
-            "quantity": 2,
-            "placing": "Дуьриничі" ,
-            "statusDig":  false
-            },
-            {
-            "id": 12,
-            "name": "Туя Брабант",
-            "characteristics": "WRB,H180-200",
-            "quantity": 2,
-            "placing": "Перечин" ,
-            "statusDig":  false
-            }
-    ]
 }
