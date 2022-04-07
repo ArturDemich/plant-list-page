@@ -1,23 +1,54 @@
 {
-    "id": 1,
-    "nameClient": "Петров Іван",
-    "dateShipment": "31.03.2022",
-    "orderItems": [ 
-         {        
-            "id": 11,
-            "name": "Туя Смарагд",
-            "characteristics": "WRB,H180-200",
-            "quantity": 2,
-            "placing": "Барвінок" ,
-            "statusDig":  false
-            },
-            {
-            "id": 12,
-            "name": "Туя Брабант",
-            "characteristics": "WRB,H180-200",
-            "quantity": 2,
-            "placing": "Перечин" ,
-            "statusDig":  false
-            }
-        ]
+   "orders": [{
+        "id": 1,
+        "nameClient": "Петров Іван",
+        "dateShipment": "31.03.2022",
+        "orderItems": [ 
+             {        
+                "id": 11,
+                "name": "Туя Смарагд",
+                "characteristics": "WRB,H180-200",
+                "quantity": 2,
+                "placing": "Барвінок" ,
+                "statusDig":  false
+                },
+                {
+                "id": 12,
+                "name": "Туя Брабант",
+                "characteristics": "WRB,H180-200",
+                "quantity": 2,
+                "placing": "Перечин" ,
+                "statusDig":  false
+                }
+            ]
+            
+    },
+    {
+        "id": 1,
+        "nameClient": "Бобко Василь",
+        "dateShipment": "31.03.2022",
+        "orderItems": [ 
+             {        
+                "id": 11,
+                "name": "Туя Даніка",
+                "characteristics": "WRB,Д80-100",
+                "quantity": 2,
+                "placing": "Перечин" ,
+                "statusDig":  false
+                },
+                {
+                "id": 12,
+                "name": "Туя Сьолоші",
+                "characteristics": "WRB,H120-140",
+                "quantity": 5,
+                "placing": "Дубриничі" ,
+                "statusDig":  false
+                }
+            ]
+            
+    }
+     
+    ]       
+        
 }
+
