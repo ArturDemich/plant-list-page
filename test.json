@@ -13,7 +13,7 @@
                 "statusDig":  false
                 },
                 {
-                "id": 12,
+                "id": 22,
                 "name": "Туя Брабант",
                 "characteristics": "WRB,H180-200",
                 "quantity": 2,
@@ -24,12 +24,12 @@
             
     },
     {
-        "id": 1,
+        "id": 2,
         "nameClient": "Бобко Василь",
-        "dateShipment": "31.03.2022",
+        "dateShipment": "01.04.2022",
         "orderItems": [ 
              {        
-                "id": 11,
+                "id": 111,
                 "name": "Туя Даніка",
                 "characteristics": "WRB,Д80-100",
                 "quantity": 2,
@@ -37,7 +37,7 @@
                 "statusDig":  false
                 },
                 {
-                "id": 12,
+                "id": 222,
                 "name": "Туя Сьолоші",
                 "characteristics": "WRB,H120-140",
                 "quantity": 5,
