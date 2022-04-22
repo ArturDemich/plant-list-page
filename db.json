@@ -57,12 +57,12 @@
     },
     {
         "id": 3,
-        "nameClient": "Жужик Роман",
+        "nameClient": "Жужик Роман Васильович, +38066451878, Дніпродержинськ, ЛД СЦ ЛІСГОСП",
         "dateShipment": "01.04.2022",
         "orderItems": [ 
              {        
                 "id": 1111,
-                "name": "Туя Глобоза",
+                "name": "Thuja ocsidentalis 'Globoza', Туя західна Глобоза",
                 "characteristics": "WRB,Д100-120",
                 "quantity": 2,
                 "placing": "База" ,
@@ -70,7 +70,7 @@
                 },
                 {
                 "id": 2222,
-                "name": "Туя Сьолоші",
+                "name": "Thuja ocsidentalis 'Soloshi', Туя західна Сьолоші",
                 "characteristics": "WRB,H120-140",
                 "quantity": 5,
                 "placing": "База" ,
@@ -78,8 +78,8 @@
                 },
                {
                 "id": 3333,
-                "name": "Туя Сьолоші",
-                "characteristics": "WRB,H120-140",
+                "name": "Thuja ocsidentalis 'Soloshi', Туя західна Сьолоші",
+                "characteristics": "WRB,H140-160",
                 "quantity": 5,
                 "placing": "База" ,
                 "statusDig":  false
