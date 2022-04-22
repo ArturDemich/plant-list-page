@@ -19,7 +19,15 @@
                 "quantity": 2,
                 "placing": "Перечин" ,
                 "statusDig":  false
-                }
+                },
+               {
+                   "id": 33,
+                   "name": "Туя Колумна",
+                   "characteristics": "WRB,H100-120, NIWAKI",
+                   "quantity": 100,
+                   "placing": "Перечин" ,
+                   "statusDig":  false
+                   }
             ]
             
     },
@@ -42,6 +50,38 @@
                 "characteristics": "WRB,H120-140",
                 "quantity": 5,
                 "placing": "Дубриничі" ,
+                "statusDig":  false
+                }
+            ]
+            
+    },
+    {
+        "id": 3,
+        "nameClient": "Жужик Роман",
+        "dateShipment": "01.04.2022",
+        "orderItems": [ 
+             {        
+                "id": 1111,
+                "name": "Туя Глобоза",
+                "characteristics": "WRB,Д100-120",
+                "quantity": 2,
+                "placing": "База" ,
+                "statusDig":  false
+                },
+                {
+                "id": 2222,
+                "name": "Туя Сьолоші",
+                "characteristics": "WRB,H120-140",
+                "quantity": 5,
+                "placing": "База" ,
+                "statusDig":  false
+                },
+               {
+                "id": 3333,
+                "name": "Туя Сьолоші",
+                "characteristics": "WRB,H120-140",
+                "quantity": 5,
+                "placing": "База" ,
                 "statusDig":  false
                 }
             ]
