@@ -63,7 +63,7 @@
              {        
                 "id": 1111,
                 "name": "Thuja ocsidentalis 'Globoza', Туя західна Глобоза",
-                "characteristics": "WRB,Д100-120",
+                "characteristics": "WRB,Д100-120, FORM NIWAKI, TG25-26, Pa 140-180",
                 "quantity": 2,
                 "placing": "База" ,
                 "statusDig":  false
@@ -71,7 +71,7 @@
                 {
                 "id": 2222,
                 "name": "Thuja ocsidentalis 'Soloshi', Туя західна Сьолоші",
-                "characteristics": "WRB,H120-140",
+                "characteristics": "WRB,H120-140, FORM NIWAKI, TG25-26, Pa 140-180",
                 "quantity": 5,
                 "placing": "База" ,
                 "statusDig":  false
@@ -79,7 +79,55 @@
                {
                 "id": 3333,
                 "name": "Thuja ocsidentalis 'Soloshi', Туя західна Сьолоші",
-                "characteristics": "WRB,H140-160",
+                "characteristics": "WRB,H140-160, FORM NIWAKI, TG25-26, Pa 140-180",
+                "quantity": 5,
+                "placing": "База" ,
+                "statusDig":  false
+                },
+                {
+                "id": 2222,
+                "name": "Thuja ocsidentalis 'Soloshi', Туя західна Сьолоші",
+                "characteristics": "WRB,H120-140, FORM NIWAKI, TG25-26, Pa 140-180",
+                "quantity": 5,
+                "placing": "База" ,
+                "statusDig":  false
+                },
+               {
+                "id": 4444,
+                "name": "Thuja ocsidentalis 'Soloshi', Туя західна Сьолоші",
+                "characteristics": "WRB,H140-160, FORM NIWAKI, TG25-26, Pa 140-180",
+                "quantity": 5,
+                "placing": "База" ,
+                "statusDig":  false
+                },
+               {
+                "id": 5555,
+                "name": "Thuja ocsidentalis 'Soloshi', Туя західна Сьолоші",
+                "characteristics": "WRB,H120-140, FORM NIWAKI, TG25-26, Pa 140-180",
+                "quantity": 5,
+                "placing": "База" ,
+                "statusDig":  false
+                },
+               {
+                "id": 6666,
+                "name": "Thuja ocsidentalis 'Soloshi', Туя західна Сьолоші",
+                "characteristics": "WRB,H140-160, FORM NIWAKI, TG25-26, Pa 140-180",
+                "quantity": 5,
+                "placing": "База" ,
+                "statusDig":  false
+                },
+               {
+                "id": 7777,
+                "name": "Thuja ocsidentalis 'Soloshi', Туя західна Сьолоші",
+                "characteristics": "WRB,H120-140, FORM NIWAKI, TG25-26, Pa 140-180",
+                "quantity": 5,
+                "placing": "База" ,
+                "statusDig":  false
+                },
+               {
+                "id": 8888,
+                "name": "Thuja ocsidentalis 'Soloshi', Туя західна Сьолоші",
+                "characteristics": "WRB,H140-160, FORM NIWAKI, TG25-26, Pa 140-180",
                 "quantity": 5,
                 "placing": "База" ,
                 "statusDig":  false
